@@ -1,4 +1,4 @@
-## paerha
+## Pär Hansson
 
 [![GitHub Badge](https://img.shields.io/github/followers/paerha?style=social)](https://github.com/paerha?tab=followers)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/paerhansson/)
